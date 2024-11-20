@@ -1,4 +1,4 @@
-package com.example.stepappv5.ui.Home;
+package com.example.stepappv8.ui.Home;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -16,21 +16,19 @@ import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.text.method.ScrollingMovementMethod;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.stepappv5.R;
-import com.example.stepappv5.StepAppOpenHelper;
-import com.example.stepappv5.databinding.FragmentHomeBinding;
+import com.example.stepappv8.R;
+import com.example.stepappv8.StepAppOpenHelper;
+import com.example.stepappv8.databinding.FragmentHomeBinding;
 // TODO 5: import BuildConfig!
 
-// TODO 7: import gemini libraries
+// TODO 7: import gemini libraries/**/
 
 import com.google.android.material.button.MaterialButtonToggleGroup;
 import com.google.android.material.progressindicator.CircularProgressIndicator;

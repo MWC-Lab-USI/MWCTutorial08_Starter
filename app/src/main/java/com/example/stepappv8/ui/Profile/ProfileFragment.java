@@ -1,4 +1,4 @@
-package com.example.stepappv5.ui.Profile;
+package com.example.stepappv8.ui.Profile;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.stepappv5.databinding.FragmentProfileBinding;
+import com.example.stepappv8.databinding.FragmentProfileBinding;
 
 public class ProfileFragment extends Fragment {
 

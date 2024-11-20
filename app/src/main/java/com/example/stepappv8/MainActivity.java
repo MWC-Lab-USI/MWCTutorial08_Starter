@@ -1,13 +1,11 @@
-package com.example.stepappv5;
+package com.example.stepappv8;
 
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
-import android.view.View;
 import android.view.Menu;
 import android.widget.Toast;
 
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
 import androidx.annotation.NonNull;
@@ -20,7 +18,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import android.Manifest;
 
-import com.example.stepappv5.databinding.ActivityMainBinding;
+import com.example.stepappv8.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

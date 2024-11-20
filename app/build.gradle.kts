@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.stepappv5"
+    namespace = "com.example.stepappv8"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.stepappv5"
+        applicationId = "com.example.stepappv8"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

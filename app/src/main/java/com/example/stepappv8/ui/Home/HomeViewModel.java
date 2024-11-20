@@ -1,16 +1,16 @@
-package com.example.stepappv5.ui.Report;
+package com.example.stepappv8.ui.Home;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class ReportViewModel extends ViewModel {
+public class HomeViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public ReportViewModel() {
+    public HomeViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is the report fragment");
+        mText.setValue("This is home fragment");
     }
 
     public LiveData<String> getText() {
