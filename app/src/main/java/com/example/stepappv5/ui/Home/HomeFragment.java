@@ -31,15 +31,6 @@ import com.example.stepappv5.databinding.FragmentHomeBinding;
 // TODO 5: import BuildConfig!
 
 // TODO 7: import gemini libraries
-import com.google.ai.client.generativeai.GenerativeModel;
-import com.google.ai.client.generativeai.java.GenerativeModelFutures;
-import com.google.ai.client.generativeai.type.Content;
-import com.google.ai.client.generativeai.type.GenerateContentResponse;
-import com.google.common.util.concurrent.FutureCallback;
-import com.google.common.util.concurrent.Futures;
-import com.google.common.util.concurrent.ListenableFuture;
-import java.util.concurrent.Executor;
-import java.util.concurrent.Executors;
 
 import com.google.android.material.button.MaterialButtonToggleGroup;
 import com.google.android.material.progressindicator.CircularProgressIndicator;
